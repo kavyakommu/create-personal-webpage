@@ -83,7 +83,7 @@ body { padding-top: 70px; scroll-behavior: smooth; }
 <!-- Hero -->
 <section id="Home" class="hero">
 <div>
-<h1>Hello, kavya</h1>
+<h1>Hello,I am kavya</h1>
 <p class="lead">Web Developer | Assistent professor</p>
 <a href="https://ibb.co/2YyC3kVx"><img src="https://i.ibb.co/Tqk7Mgj6/Screenshot-2026-04-06-122139.png" 
 alt="Screenshot-2026-04-06-122139" target="_blank" border="1"></a> 
@@ -175,8 +175,12 @@ alt="Screenshot-2026-04-06-122139" target="_blank" border="1"></a>
 <div class="container">
 <h2>Contact Me</h2>
 <form>
-<input class="form-control mb-2" placeholder="Name">
-<input class="form-control mb-2" placeholder="Email">
+<input class="form-control mb-2" placeholder="kavya">
+<input class="form-control mb-2" placeholder="kommukavya1995@gmail.com">
+    <div class="card-body"><h5>linkedin</h5></div>
+  <a href="[3:02 PM, 4/7/2026] kavya:https://www.linkedin.com/in/kavya-kommu-777929115" target="_blank">
+  <div class="card-body"><h5>github</h5></div>
+  <a href="[3:02 PM, 4/7/2026] kavya: https://github.com/kavyakommu" target="_blank">
 <textarea class="form-control mb-2" placeholder="Message"></textarea>
 <button class="btn btn-primary">Send</button>
 </form>
