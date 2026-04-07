@@ -96,7 +96,7 @@ alt="Screenshot-2026-04-06-122139" target="_blank" border="1"></a>
 <section id="about" class="section text-center">
 <div class="container">
 <h2>About Me</h2>
-<p>I am a passionate web developer skilled in HTML, CSS, Bootstrap and JavaScript.</p>
+<p>I am a passionate web developer skilled in HTML, CSS, Bootstrap and JavaScript,AI Enthusiast Skilled in Modern Tools.</p>
   <img src="image.jpg" width="12px">
 </div>
 </section>
@@ -145,6 +145,7 @@ alt="Screenshot-2026-04-06-122139" target="_blank" border="1"></a>
 <div class="col-md-4">
 <div class="card">
 <img src=   
+    <a href="https://ibb.co/xKY5qJVD"><img src="https://i.ibb.co/wZ76hMDR/29-IJAEMA-SEPTEMER-2021.png" alt="29-IJAEMA-SEPTEMER-2021" border="0"></a>
 <div class="card-body"><h5>Project 1</h5></div>
 </div>
 </div>
